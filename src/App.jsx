@@ -10,7 +10,7 @@ import About from './pages/About';
 import Work from './pages/Work';
 import Logo from './assets/logo.png';
 
-import CV from './assets/VAML CV.pdf';
+import CV from './assets/ResumeVeejayAdolfLemita.pdf';
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(false);
